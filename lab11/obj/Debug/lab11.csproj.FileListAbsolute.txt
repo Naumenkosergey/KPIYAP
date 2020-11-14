@@ -1,7 +1,0 @@
-F:\МКП\С#\P1807\P1807\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
-F:\МКП\С#\P1807\P1807\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
-F:\МКП\С#\P1807\P1807\lab11\bin\Debug\lab11.exe.config
-F:\МКП\С#\P1807\P1807\lab11\bin\Debug\lab11.exe
-F:\МКП\С#\P1807\P1807\lab11\bin\Debug\lab11.pdb
-F:\МКП\С#\P1807\P1807\lab11\obj\Debug\lab11.exe
-F:\МКП\С#\P1807\P1807\lab11\obj\Debug\lab11.pdb

@@ -1,0 +1,14 @@
+F:\МКП\С#\P1807\P1807\Animals\bin\Debug\Animals.exe.config
+F:\МКП\С#\P1807\P1807\Animals\bin\Debug\Animals.exe
+F:\МКП\С#\P1807\P1807\Animals\bin\Debug\Animals.pdb
+F:\МКП\С#\P1807\P1807\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+F:\МКП\С#\P1807\P1807\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+F:\МКП\С#\P1807\P1807\Animals\obj\Debug\Animals.exe
+F:\МКП\С#\P1807\P1807\Animals\obj\Debug\Animals.pdb
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\bin\Debug\Animals.exe.config
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\bin\Debug\Animals.exe
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\bin\Debug\Animals.pdb
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\obj\Debug\Animals.exe
+F:\МКП\С#\P1807\P1807\naumenko2\Animals\obj\Debug\Animals.pdb

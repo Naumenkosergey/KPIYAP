@@ -1,7 +1,0 @@
-F:\МКП\С#\P1807\P1807\Students\bin\Debug\Students.exe.config
-F:\МКП\С#\P1807\P1807\Students\bin\Debug\Students.exe
-F:\МКП\С#\P1807\P1807\Students\bin\Debug\Students.pdb
-F:\МКП\С#\P1807\P1807\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
-F:\МКП\С#\P1807\P1807\Students\obj\Debug\Students.exe
-F:\МКП\С#\P1807\P1807\Students\obj\Debug\Students.pdb
-F:\МКП\С#\P1807\P1807\Students\obj\Debug\Students.csprojAssemblyReference.cache

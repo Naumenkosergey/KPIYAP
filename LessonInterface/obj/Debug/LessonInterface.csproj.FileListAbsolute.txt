@@ -1,7 +1,0 @@
-F:\МКП\С#\P1807\P1807\LessonInterface\bin\Debug\LessonInterface.exe.config
-F:\МКП\С#\P1807\P1807\LessonInterface\bin\Debug\LessonInterface.exe
-F:\МКП\С#\P1807\P1807\LessonInterface\bin\Debug\LessonInterface.pdb
-F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.csprojAssemblyReference.cache
-F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.csproj.CoreCompileInputs.cache
-F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.exe
-F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.pdb

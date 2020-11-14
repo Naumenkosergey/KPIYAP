@@ -1,7 +1,0 @@
-F:\МКП\С#\P1807\P1807\LessonClasses\bin\Debug\LessonClasses.exe.config
-F:\МКП\С#\P1807\P1807\LessonClasses\bin\Debug\LessonClasses.exe
-F:\МКП\С#\P1807\P1807\LessonClasses\bin\Debug\LessonClasses.pdb
-F:\МКП\С#\P1807\P1807\LessonClasses\obj\Debug\LessonClasses.csprojAssemblyReference.cache
-F:\МКП\С#\P1807\P1807\LessonClasses\obj\Debug\LessonClasses.csproj.CoreCompileInputs.cache
-F:\МКП\С#\P1807\P1807\LessonClasses\obj\Debug\LessonClasses.exe
-F:\МКП\С#\P1807\P1807\LessonClasses\obj\Debug\LessonClasses.pdb

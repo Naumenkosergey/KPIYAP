@@ -1,7 +1,0 @@
-F:\МКП\С#\P1807\P1807\InterfacesWork\bin\Debug\InterfacesWork.exe.config
-F:\МКП\С#\P1807\P1807\InterfacesWork\bin\Debug\InterfacesWork.exe
-F:\МКП\С#\P1807\P1807\InterfacesWork\bin\Debug\InterfacesWork.pdb
-F:\МКП\С#\P1807\P1807\InterfacesWork\obj\Debug\InterfacesWork.csprojAssemblyReference.cache
-F:\МКП\С#\P1807\P1807\InterfacesWork\obj\Debug\InterfacesWork.csproj.CoreCompileInputs.cache
-F:\МКП\С#\P1807\P1807\InterfacesWork\obj\Debug\InterfacesWork.exe
-F:\МКП\С#\P1807\P1807\InterfacesWork\obj\Debug\InterfacesWork.pdb
