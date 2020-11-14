@@ -1,0 +1,7 @@
+F:\МКП\KPIYAP\naumenko\TestProject\bin\Debug\TestProject.exe.config
+F:\МКП\KPIYAP\naumenko\TestProject\bin\Debug\TestProject.exe
+F:\МКП\KPIYAP\naumenko\TestProject\bin\Debug\TestProject.pdb
+F:\МКП\KPIYAP\naumenko\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+F:\МКП\KPIYAP\naumenko\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+F:\МКП\KPIYAP\naumenko\TestProject\obj\Debug\TestProject.exe
+F:\МКП\KPIYAP\naumenko\TestProject\obj\Debug\TestProject.pdb
