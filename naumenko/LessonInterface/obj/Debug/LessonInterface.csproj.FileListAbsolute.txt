@@ -5,3 +5,10 @@ F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.csprojAssemb
 F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.csproj.CoreCompileInputs.cache
 F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.exe
 F:\МКП\С#\P1807\P1807\LessonInterface\obj\Debug\LessonInterface.pdb
+F:\МКП\KPIYAP\naumenko\LessonInterface\bin\Debug\LessonInterface.exe.config
+F:\МКП\KPIYAP\naumenko\LessonInterface\bin\Debug\LessonInterface.exe
+F:\МКП\KPIYAP\naumenko\LessonInterface\bin\Debug\LessonInterface.pdb
+F:\МКП\KPIYAP\naumenko\LessonInterface\obj\Debug\LessonInterface.csprojAssemblyReference.cache
+F:\МКП\KPIYAP\naumenko\LessonInterface\obj\Debug\LessonInterface.csproj.CoreCompileInputs.cache
+F:\МКП\KPIYAP\naumenko\LessonInterface\obj\Debug\LessonInterface.exe
+F:\МКП\KPIYAP\naumenko\LessonInterface\obj\Debug\LessonInterface.pdb

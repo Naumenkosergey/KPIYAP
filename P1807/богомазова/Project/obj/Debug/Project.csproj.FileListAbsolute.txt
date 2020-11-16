@@ -1,0 +1,7 @@
+F:\МКП\KPIYAP\P1807\богомазова\Project\bin\Debug\Project.exe.config
+F:\МКП\KPIYAP\P1807\богомазова\Project\bin\Debug\Project.exe
+F:\МКП\KPIYAP\P1807\богомазова\Project\bin\Debug\Project.pdb
+F:\МКП\KPIYAP\P1807\богомазова\Project\obj\Debug\Project.csprojAssemblyReference.cache
+F:\МКП\KPIYAP\P1807\богомазова\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\МКП\KPIYAP\P1807\богомазова\Project\obj\Debug\Project.exe
+F:\МКП\KPIYAP\P1807\богомазова\Project\obj\Debug\Project.pdb
